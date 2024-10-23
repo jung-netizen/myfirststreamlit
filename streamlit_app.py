@@ -7,7 +7,7 @@ st.info("이정화입니다")
 st.write("https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A7%84%EC%A3%BC%EB%AA%A9%EA%B1%B8%EC%9D%B4")
 
 
-st.link_button("streamlit 매뉴얼 페이지 바로가기!", "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A7%84%EC%A3%BC%EB%AA%A9%EA%B1%B8%EC%9D%B4")
+st.link_button("github바로가기", "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A7%84%EC%A3%BC%EB%AA%A9%EA%B1%B8%EC%9D%B4")
 
 st.success("초록색 창")
 st.error("빨간색 창")
