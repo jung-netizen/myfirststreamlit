@@ -14,4 +14,4 @@ st.error("빨간색 창")
 st.info("파란색 창")
 st.warning("노란색 창") # ctrl+/ : 주석처리
 st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlqcHQ4ZTgycWR0c2dmOXBpZWY0ajFwbXkxZWg1bDBlMW1yejJ5aiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/ERDMbAWVZEMzI0m8wY/giphy.gif", caption="Welcome to coding world") 
-st.video("https://www.youtube.com/watch?v=utIbM9Iua-k")
+st.video("https://youtu.be/utIbM9Iua-k?si=igG_8qgD-cfUIMSc")
